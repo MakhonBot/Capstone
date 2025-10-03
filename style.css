@@ -5,7 +5,7 @@ body {
  } 
  .topnav {
     overflow: hidden;
-    background-color: rgb(233, 119, 153);
+    background-color: beige;
     margin: 10px;
     display: flex;
     justify-content: center;
@@ -21,8 +21,16 @@ body {
  }
  .topnav a:hover {
     color: rgb(48, 17, 27);
-    background-color: rgb(218, 138, 162);
+    background-color: rgb(235, 219, 187);
  }
  .active {
-    text-shadow: 2px 2px 5px rgb(0, 97, 207);
+    text-shadow: 2px 2px 5px rgb(26, 27, 27);
+ }
+ img {
+   height: 100px;
+   width: 110px;
+ }
+ p {
+   color: rgb(110, 38, 61);
+   background-color: beige;
  }
