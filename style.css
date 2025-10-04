@@ -33,4 +33,9 @@ body {
  p {
    color: rgb(110, 38, 61);
    background-color: beige;
+   text-align: center;
+ }
+ li {
+   background-color: beige;
+   color: rgb(48, 17, 27);
  }
