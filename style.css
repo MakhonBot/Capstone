@@ -39,3 +39,41 @@ body {
    background-color: beige;
    color: rgb(48, 17, 27);
  }
+ h2 {
+   color: rgb(133, 66, 87);
+   background-color: beige;
+   text-align: center;
+ }
+ .pimg {
+   position: relative;
+   opacity: 0.70;
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-image:url('pinkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.jpg');
+   min-height: 400px;
+ }
+ .section-dark {
+   background-color: rgb(218, 142, 171);
+   color: rgb(255, 255, 255);
+ }
+.ptext {
+   position: absolute;
+   top: 50%;
+   width: 100%;
+   text-align: center;
+   color: rgb(48, 17, 27);
+   letter-spacing: 7px;
+   text-transform: uppercase;
+}
+.ptext .border {
+   background-color: rgb(255, 255, 255);
+   color: rgb(48, 17, 27);
+}
+.ptext .border .trans {
+   background-color: transparent;
+}
+.cake {
+   padding: 20px;
+}
