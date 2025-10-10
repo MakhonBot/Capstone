@@ -82,3 +82,9 @@ a {
    background-color: white;
    color: rgb(68, 30, 30);
 }
+footer {
+   background-color: white;
+   padding: 2px;
+   text-decoration: none;
+   text-align: center;
+}
